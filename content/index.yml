@@ -107,7 +107,7 @@ faq:
             Project costs are calculated based on the estimated hours required for the scope and complexity. Typically, my fullstack projects start at $4,000 for a 2-week sprint. For consulting or specific tasks, my rate is $50 per hour. Once we define the requirements, I’ll provide a precise breakdown of the billable hours.
         - label: What are your payment terms?
           content: |
-            I generally require a 40% deposit to schedule the project and begin work, with the remaining 60% due upon successful project completion and delivery. I accept payments via bank transfer and Stripe.
+            I accept bank transfers (including local transfers in Brazil), Bitcoin, PayPal, and Stripe. For ongoing projects, payments are typically processed on a monthly basis.
         - label: How long does a typical project take?
           content: |
             Timelines depend heavily on the project's scope and complexity. Smaller projects might take 3-4 weeks, while larger, more involved projects can range from 2 to 4 months. I always provide a detailed timeline estimate after the initial discovery phase.

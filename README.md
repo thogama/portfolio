@@ -2,7 +2,7 @@
 
 Personal portfolio built with Nuxt UI and Nuxt Content.
 
-It includes a homepage, about page, projects, and speaking content tailored for Alan Gama.
+It includes a homepage, about page, and projects content tailored for Alan Gama.
 
 ## Quick Start
 
