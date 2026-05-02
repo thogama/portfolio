@@ -1,5 +1,5 @@
 title: Talks & Workshops
-description: Explore talks and workshops I've given on UX design, front-end development, and building better digital products.
+description: Explore selected talks and workshops on fullstack engineering, architecture decisions, and shipping better digital products.
 links:
   - label: Invite me to speak
     size: md
@@ -26,7 +26,7 @@ events:
   - category: Live talk
     title: "From Wireframe to Web: A Practical Front-End Workflow"
     date: "2024-03-05"
-    location: "Internal Workshop @ PreviousCompany Inc."
+    location: "Internal workshop"
   - category: Live talk
     title: "The Power of User Research in Product Development"
     date: "2023-09-12"

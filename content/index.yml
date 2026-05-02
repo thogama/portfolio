@@ -1,13 +1,13 @@
 seo:
-  title: "Emma Thompson - UX/UI Designer"
-  description: "Welcome to my portfolio! I'm Emma Thompson, a UX/UI designer and front-end developer based in Boston. I specialize in creating user-centered digital experiences that are both beautiful and functional."
-title: "Hey, I'm Emma Thompson UX/UI Designer"
-description: "I craft intuitive digital experiences where design meets functionality. Based in Boston, bringing ideas to life through code and creativity."
+  title: "Alan Gama - Fullstack Software Engineer"
+  description: "Alan Gama is a fullstack software engineer in Boston building clear, accessible digital products."
+title: "Hi, I'm Alan Gama"
+description: "I build reliable, user-centered web products from frontend architecture to backend services."
 hero:
   links:
-    - label: "Use this template"
-      to: https://github.com/nuxt-ui-templates/portfolio
-      color: "neutral"
+    - label: "View Projects"
+      to: /projects
+      color: "primary"
   images:
     - src: /hero/random-1.avif
       alt: Random Image 1
@@ -30,57 +30,64 @@ hero:
 about:
   title: "About Me"
   description: |
-    As a UX/UI designer and front-end developer with 6 years of experience, I leverage my Boston University Interactive Design degree to craft user-centered digital experiences.
-    My approach blends creative strategy with technical expertise, transforming concepts into functional, purposeful digital products that seamlessly integrate design and technology.
+    As a fullstack software engineer with +6 years of experience, I build products that are performant, maintainable, and easy to use.
+    My background in Interactive Design helps me connect product thinking with solid engineering execution.
 experience:
   title: Work Experience
   items:
-    - position: "Brand Designer at"
+    - position: "Fullstack Software Engineer at"
       date: "2023 - Present"
       company:
-        name: Nuxt
-        logo: "i-simple-icons-nuxtdotjs"
-        url: "https://nuxt.com"
-        color: "#00DC82"
-    - position: "Assets Designer at"
+        name: LeoRad
+        logo: "/leo-logo.webp"
+        url: "https://leorad.com.br/"
+        color: "#22b1e3"
+    - position: "Fullstack Software Engineer on"
+      date: "2023 - 2024"
+      company:
+        name: Upwork
+        logo: "/upwork-logo.png"
+        url: "https://www.upwork.com/freelancers/~01c65b24230c0622b6?mp_source=share"
+        color: "#128b02"
+    - position: "Junior Frontend Developer at"
       date: "2022 - 2023"
       company:
-        name: Raycast
-        logo: "i-simple-icons-raycast"
-        url: "https://raycast.com"
-        color: "#FF6363"
-    - position: "Senior UX/UI Designer at"
-      date: "2020 - 2021"
+        name: Neurometa
+        logo: "/neurometa-logo.jpg"
+        url: "https://neurometa.com.br/"
+        color: "rgb(26 45 243)"
+    - position: "Fullstack Developer Intern at"
+      date: "2021 - 2022"
       company:
-        name: Linear
-        logo: "i-simple-icons-linear"
-        url: "https://linear.app"
-        color: "#5E6AD2"
+        name: DITIN
+        logo: "/ditin-logo.svg"
+        url: "https://www.saocristovao.se.gov.br/"
+        color: "#facc15"
 testimonials:
-  - quote: "Emma's approach to UX design completely transformed our product. She has a rare ability to balance beautiful aesthetics with functional simplicity. The redesign not only looked better, but it reduced our customer support tickets by 40% and increased conversion rates across all key metrics."
+  - quote: "Alan is a competent, focused, and dedicated professional. He consistently delivers high-quality results and is a reliable team member."
     author:
-      name: 'Sarah Chen'
-      description: 'Product Director at Bloom Finance'
+      name: 'Paulo Santana'
+      description: 'Colleague in academic projects at UFS'
       avatar:
-        src: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Working with Emma was the best decision we made for our startup. She didn't just deliver designs—she challenged our assumptions, conducted thorough user research, and created an experience that truly resonated with our audience. Her technical knowledge of front-end development meant the handoff to our engineering team was seamless."
+        src: 'https://media.licdn.com/dms/image/v2/D4D03AQHNmhD6GdwWxQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1665358856488?e=1779321600&v=beta&t=1_xN2ebbT7NShwLwnHyszVIjUQtUvutySiqD-urT3-A'
+        srcset: 'https://media.licdn.com/dms/image/v2/D4D03AQHNmhD6GdwWxQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1665358856488?e=1779321600&v=beta&t=1_xN2ebbT7NShwLwnHyszVIjUQtUvutySiqD-urT3-A 2x'
+  - quote: "Alan demonstrated technical competence and responsibility in our projects. I recommend his work as a full-stack software engineer."
     author:
-      name: 'Michael Rodriguez'
-      description: 'Co-founder of Wavelength Music'
+      name: 'Dr. Luis Pecci Neto'
+      description: 'Medical Doctor and Founder at LeoRad'
       avatar:
-        src: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Emma stands out in her ability to translate complex sustainability data into intuitive interfaces. Her work on EcoTrack wasn't just visually stunning—it fundamentally changed how our users interact with environmental information. She approaches each problem with both creativity and analytical rigor, which is exactly what we needed."
+        src: 'https://media.licdn.com/dms/image/v2/C4D03AQHEC7DJVQLlKg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1570934705103?e=1779321600&v=beta&t=-DKCJ8ocxcJINJURVqmsGenVJMH26bx25YkcGpplN_k'
+        srcset: 'https://media.licdn.com/dms/image/v2/C4D03AQHEC7DJVQLlKg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1570934705103?e=1779321600&v=beta&t=-DKCJ8ocxcJINJURVqmsGenVJMH26bx25YkcGpplN_k 2x'
+  - quote: "Alan demonstrated technical competence and responsibility in our projects. I recommend his work as a full-stack software engineer."
     author:
-      name: 'Dr. Aisha Johnson'
+      name: 'Dr. Luis Pecci Neto'
       description: 'Chief Innovation Officer at GreenTech Solutions'
       avatar:
         src: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
         srcset: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
 blog:
   title: "Latest Articles"
-  description: "Some of my recent thoughts"
+  description: "Thoughts on fullstack engineering, product architecture, and design systems."
 faq:
   title: Frequently Asked Questions
   description: Answers to common questions about my process and services.
@@ -89,10 +96,10 @@ faq:
       questions:
         - label: What services do you offer?
           content: |
-            I specialize in UX/UI design and front-end development. This includes user research, wireframing, interactive prototyping, creating intuitive user interfaces, building responsive websites and web applications (especially with Vue.js/Nuxt.js), and developing design systems. My goal is to create seamless digital experiences from concept to deployment.
+            I specialize in fullstack software engineering with a strong product focus. That includes frontend architecture, Vue.js/Nuxt.js applications, backend APIs, database design, integrations, and design system implementation.
         - label: What is your design process like?
           content: |
-            My process is collaborative and iterative, typically involving stages like Discovery & Research, Ideation & Prototyping, User Testing, Visual Design, and close collaboration with development teams during implementation. I tailor the process based on project needs, always focusing on user-centered solutions.
+            My process is collaborative and iterative, usually moving through discovery, technical planning, implementation, and validation. I adapt it to each project while balancing product impact, delivery speed, and code quality.
         - label: Do you work with startups?
           content: |
             Absolutely! I enjoy working with startups to help shape their product vision and create user-friendly interfaces from the ground up. I can adapt my process to fit the fast-paced startup environment.
@@ -100,7 +107,7 @@ faq:
       questions:
         - label: How much does a project typically cost?
           content: |
-            Project costs vary based on scope, complexity, features, and timeline. For comprehensive UX/UI design and front-end development projects, my engagements typically start around $5,000, with average projects ranging between $8,000 and $25,000. For consulting or specific design tasks, my day rate is $700.
+            Project costs vary based on scope, complexity, features, and timeline. For fullstack software work, projects typically start around $5,000, with larger engagements ranging between $8,000 and $25,000. For consulting or specific design tasks, my day rate is $700.
         - label: What are your payment terms?
           content: |
             I generally require a 40% deposit to schedule the project and begin work, with the remaining 60% due upon successful project completion and delivery. I accept payments via bank transfer and Stripe.
@@ -109,12 +116,12 @@ faq:
             Timelines depend heavily on the project's scope and complexity. Smaller projects might take 3-4 weeks, while larger, more involved projects can range from 2 to 4 months. I always provide a detailed timeline estimate after the initial discovery phase.
         - label: Do you offer retainers or ongoing support?
           content: |
-            Yes, for clients needing ongoing design support, feature development, or maintenance, I offer monthly retainer options tailored to specific needs. Let's discuss if this is something you're interested in.
+            Yes. For teams needing ongoing feature development, technical support, or maintenance, I offer monthly retainer options tailored to specific needs.
     - title: About Me
       questions:
         - label: What do you enjoy most about your work?
           content: |
-            I love the challenge of solving complex problems through design and technology. It's incredibly rewarding to see people interact with something I've created and find it genuinely useful and easy to navigate. Bridging the gap between user needs and technical possibilities is what truly excites me.
+            I love solving complex product problems through software engineering. It is rewarding to ship systems people rely on and know they are fast, stable, and genuinely useful.
         - label: What are your hobbies outside of work?
           content: |
-            When I'm not designing or coding, I enjoy exploring Boston's neighborhoods, trying out new coffee shops, and hiking in the nearby reservations. I'm also passionate about photography and occasionally contribute to open-source projects.
+            When I'm not designing or coding, I enjoy exploring Boston's neighborhoods, trying new coffee shops, hiking nearby trails, and taking photos. I also like contributing to open-source projects when time allows.
