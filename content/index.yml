@@ -73,21 +73,18 @@ testimonials:
         srcset: 'https://media.licdn.com/dms/image/v2/D4D03AQHNmhD6GdwWxQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1665358856488?e=1779321600&v=beta&t=1_xN2ebbT7NShwLwnHyszVIjUQtUvutySiqD-urT3-A 2x'
   - quote: "Alan demonstrated technical competence and responsibility in our projects. I recommend his work as a full-stack software engineer."
     author:
-      name: 'Dr. Luis Pecci Neto'
+      name: 'Dr. Luís Pecci Neto'
       description: 'Medical Doctor and Founder at LeoRad'
       avatar:
         src: 'https://media.licdn.com/dms/image/v2/C4D03AQHEC7DJVQLlKg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1570934705103?e=1779321600&v=beta&t=-DKCJ8ocxcJINJURVqmsGenVJMH26bx25YkcGpplN_k'
         srcset: 'https://media.licdn.com/dms/image/v2/C4D03AQHEC7DJVQLlKg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1570934705103?e=1779321600&v=beta&t=-DKCJ8ocxcJINJURVqmsGenVJMH26bx25YkcGpplN_k 2x'
-  - quote: "Alan demonstrated technical competence and responsibility in our projects. I recommend his work as a full-stack software engineer."
+  - quote: "Alan is the kind of developer you want on your team. He has an agile, practical mindset and excellent coding skills."
     author:
-      name: 'Dr. Luis Pecci Neto'
-      description: 'Chief Innovation Officer at GreenTech Solutions'
+      name: 'Thiago Freire'
+      description: 'Coworker at Neurometa'
       avatar:
-        src: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-blog:
-  title: "Latest Articles"
-  description: "Thoughts on fullstack engineering, product architecture, and design systems."
+        src: 'https://media.licdn.com/dms/image/v2/D4D03AQGiQUmMATJpHA/profile-displayphoto-crop_800_800/B4DZq.ci8LH4AI-/0/1764131754066?e=1779321600&v=beta&t=rqziUntQYLk8k31X_zbDYlAcXuXPlrvyjr3jKFoj9uc'
+        srcset: 'https://media.licdn.com/dms/image/v2/D4D03AQGiQUmMATJpHA/profile-displayphoto-crop_800_800/B4DZq.ci8LH4AI-/0/1764131754066?e=1779321600&v=beta&t=rqziUntQYLk8k31X_zbDYlAcXuXPlrvyjr3jKFoj9uc 2x'
 faq:
   title: Frequently Asked Questions
   description: Answers to common questions about my process and services.
@@ -96,18 +93,18 @@ faq:
       questions:
         - label: What services do you offer?
           content: |
-            I specialize in fullstack software engineering with a strong product focus. That includes frontend architecture, Vue.js/Nuxt.js applications, backend APIs, database design, integrations, and design system implementation.
+            I specialize in fullstack software engineering with a strong product focus. That includes frontend architecture, Vue.js and Nuxt.js applications, Flutter mobile apps, backend APIs, database design, integrations, and design system implementation. I also work with Laravel, NestJS, Node.js, MySQL, Docker, AWS Lambda, Azure AI, and REST APIs to build scalable, maintainable products.
         - label: What is your design process like?
           content: |
             My process is collaborative and iterative, usually moving through discovery, technical planning, implementation, and validation. I adapt it to each project while balancing product impact, delivery speed, and code quality.
-        - label: Do you work with startups?
+        - label: Can you handle a express demand?
           content: |
-            Absolutely! I enjoy working with startups to help shape their product vision and create user-friendly interfaces from the ground up. I can adapt my process to fit the fast-paced startup environment.
+            Yes, I do. I have a streamlined process specifically for short-term demands and 2-week projects.
     - title: Pricing & Timelines
       questions:
         - label: How much does a project typically cost?
           content: |
-            Project costs vary based on scope, complexity, features, and timeline. For fullstack software work, projects typically start around $5,000, with larger engagements ranging between $8,000 and $25,000. For consulting or specific design tasks, my day rate is $700.
+            Project costs are calculated based on the estimated hours required for the scope and complexity. Typically, my fullstack projects start at $4,000 for a 2-week sprint. For consulting or specific tasks, my rate is $50 per hour. Once we define the requirements, I’ll provide a precise breakdown of the billable hours.
         - label: What are your payment terms?
           content: |
             I generally require a 40% deposit to schedule the project and begin work, with the remaining 60% due upon successful project completion and delivery. I accept payments via bank transfer and Stripe.
@@ -116,7 +113,7 @@ faq:
             Timelines depend heavily on the project's scope and complexity. Smaller projects might take 3-4 weeks, while larger, more involved projects can range from 2 to 4 months. I always provide a detailed timeline estimate after the initial discovery phase.
         - label: Do you offer retainers or ongoing support?
           content: |
-            Yes. For teams needing ongoing feature development, technical support, or maintenance, I offer monthly retainer options tailored to specific needs.
+            Yes. I offer monthly retainers for ongoing development and support. As long as the work is limited to bug fixes or minor adjustments, there are no additional charges outside the monthly fee. For new features or major changes, we would simply adjust the scope accordingly.
     - title: About Me
       questions:
         - label: What do you enjoy most about your work?
@@ -124,4 +121,4 @@ faq:
             I love solving complex product problems through software engineering. It is rewarding to ship systems people rely on and know they are fast, stable, and genuinely useful.
         - label: What are your hobbies outside of work?
           content: |
-            When I'm not designing or coding, I enjoy exploring Boston's neighborhoods, trying new coffee shops, hiking nearby trails, and taking photos. I also like contributing to open-source projects when time allows.
+            When I’m not coding or architecting systems, I’m usually playing guitar and exploring digital signal processing (DSP) to craft unique tones. I’m also a fitness enthusiast, enjoying the discipline of weightlifting and outdoor activities. These hobbies keep my mind sharp and my creativity flowing for my technical work.
