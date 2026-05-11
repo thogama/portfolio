@@ -1,27 +1,28 @@
 title: About Me
-description: Learn more about my journey as a Boston-based fullstack software engineer, my product mindset, and my approach to building scalable digital products.
+description: Learn more about me and my hobbies.
 content: |
-  Hi, I'm **Alan Gama**, a fullstack software engineer based in Boston. For the past six years, I've focused on building digital products that are simple to understand, practical to use, and polished in every detail.
+  ## Hey, I'm **Alan Gama** 👨‍💻
 
-  My path started with an **Interactive Design** degree at Boston University, where I learned to connect user needs with technical execution. Since then, I've focused on building end-to-end solutions, from frontend interfaces to backend services and data layers.
+  Fullstack software engineer from **Aracaju, Sergipe, Brazil**. I've been programming since **2020**, building web apps with **Vue/Nuxt** and **Node.js**.
 
-  ### My Product Philosophy
+  ---
 
-  My product philosophy is rooted in **empathy** and **problem-solving**. Good software starts with understanding user needs, translating them into clear technical decisions, and validating outcomes quickly.
+  ### 🛠️ What I Do
+  - Build web applications
+  - Work with Vue/Nuxt & Node.js
 
-  I build interfaces and systems that feel effortless, where product clarity and technical quality support each other. Whether I'm shaping the frontend or building backend services, the goal is always the same: deliver reliable value to end users.
+  ### 💑 Personal Life
+  - Happily married since **2025**
 
-  ### What Drives Me
+  ### 🎮 When I'm Not Coding
+  - Hit the gym and stay active
+  - Compete in running races  
+  - Enjoy live music *(Avenged Sevenfold!)* 🎸
+  - Grind in **Path of Exile** ⚔️
+  - Dive into computer science topics 🧠
 
-  What keeps me excited about this work is the constant learning and the challenge of turning complex requirements into simple, scalable systems. Seeing software become something people actually rely on is the most rewarding part.
-
-  ### Beyond the Screen
-
-  When I'm not coding, you might find me exploring Boston's coffee shops, hiking nearby trails, taking photos, or contributing to open-source projects.
-
-  Thanks for stopping by. Feel free to browse my [projects](/projects) or [get in touch](/#contact) if you'd like to collaborate!
 images:
-  - src: https://images.unsplash.com/photo-1744877478622-a78c7a3336f6?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    alt: My coffee workspace
-  - src: https://images.unsplash.com/photo-1744429523595-2c06b8611242?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    alt: My trip to Tokyo
+  - src: /formatura.jpg
+    alt: Me at my graduation
+  - src: /hardrockcafe.jpg
+    alt: Me at HardRock Cafe
