@@ -17,35 +17,35 @@ experience:
   title: Work Experience
   items:
     - position: "Fullstack Software Engineer at"
-      date: "April 2023 - Present"
+      date: "2023 - Present"
       company:
         name: LeoRad
         logo: "/leo-logo.webp"
         url: "https://leorad.com.br/"
         color: "#22b1e3"
     - position: "Fullstack Software Engineer on"
-      date: "Jan 2023 - Fev 2023"
+      date: "2023 - 2023"
       company:
         name: Upwork
         logo: "/upwork-logo.png"
         url: "https://www.upwork.com/freelancers/~01c65b24230c0622b6?mp_source=share"
         color: "#128b02"
     - position: "Fullstack Developer Intern at"
-      date: "Fev 2022 - Jan 2023"
+      date: "2022 - 2023"
       company:
         name: DITIN
         logo: "/ditin-logo.svg"
         url: "https://www.saocristovao.se.gov.br/"
         color: "#facc15"
     - position: "Junior Frontend Developer at"
-      date: "Jan 2021 - Jan 2022"
+      date: "2021 - 2022"
       company:
         name: Neurometa
         logo: "/neurometa-logo.jpg"
         url: "https://neurometa.com.br/"
         color: "rgb(26 45 243)"
 testimonials:
-  - quote: "Alan is a solid full-stack engineer who doesn't just execute tasks—he understands the underlying problem and proposes better solutions. His clean code, professional transparency, and work ethic make a significant difference in a team's daily operations. I recommend him without reservation."
+  - quote: "Alan is a solid full-stack engineer who doesn't just execute tasks—he understands the underlying problem and proposes better solutions. His lean approach, professional transparency, and work ethic make a significant difference in a team's daily operations. I fully recommend him."
     author:
       name: 'Dr. Otto Wolf'
       description: 'CTO at LeoRad & Radiologist'

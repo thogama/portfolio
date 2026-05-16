@@ -5,8 +5,8 @@ export default defineAppConfig({
       light: "http://localhost:3000/perfil.jpg",
       alt: "Alan Gama",
     },
-    meetingLink: "mailto:alan@alangama.com",
-    email: "alan@alangama.com",
+    meetingLink: "mailto:dethfiregrasp@gmail.com",
+    email: "dethfiregrasp@gmail.com",
     available: true,
   },
   ui: {

@@ -1,0 +1,6 @@
+title: Leorad Web Platform
+description: Leo is a sass platform focused on creaint radiological reports featuring realtime voice recognition and AI-powered suggestions. I was responsible for the frontend and the recogning features development of the platform.
+image: /leorad.png
+url: "https://leorad.com.br/"
+tags: ["React", "NestJS", "AI", "STT", "Sass"]
+date: "2023"
