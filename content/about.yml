@@ -1,32 +1,18 @@
 title: About Me
 description: Learn more about me and my hobbies.
 content: |
-  ## Hey, I'm **Alan Gama** 👨‍💻
+  # Hey thanks for coming here! # 
 
   Fullstack software engineer from **Aracaju, Sergipe, Brazil**. I've been programming since **2020**, building web apps with **Vue/Nuxt** and **Node.js**.
 
-  ---
 
-  ### 🛠️ What I Do
-  - Build web applications
-  - Work with Vue/Nuxt & Node.js
-
-  ### 💑 Personal Life
-  - Happily married since **2025**
-
-  ### 🎮 When I'm Not Coding
-  - Hit the gym and stay active
-  - Compete in running races  
-  - Enjoy live music *(Avenged Sevenfold!)* 🎸
-  - Grind in **Path of Exile** ⚔️
-  - Dive into computer science topics 🧠
 
 images:
-  - src: /formatura.jpg
+  - src: formatura.jpg
     alt: Me at my graduation
-  - src: /trip.jpg
+  - src: trip.jpg
     alt: Me on a beach trip
-  - src: /running.jpg
+  - src: running.jpg
     alt: Me running
-  - src: /hardrockcafe.jpg
+  - src: hardrockcafe.jpg
     alt: Me at HardRock Cafe
