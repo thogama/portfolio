@@ -2,7 +2,6 @@
 @import "@nuxt/ui";
 
 @source "../../../content/**/*";
-@source inline("i-lucide-{sun,moon,arrow-right}");
 
 @theme static {
   --font-sans: 'Public Sans', sans-serif;

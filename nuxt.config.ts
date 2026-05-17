@@ -1,39 +1,44 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   modules: [
-    '@nuxt/eslint',
-    '@nuxt/image',
-    '@nuxt/ui',
-    '@nuxt/content',
-    '@vueuse/nuxt',
-    'nuxt-og-image',
-    'motion-v/nuxt'
+    "@nuxt/eslint",
+    "@nuxt/image",
+    "@nuxt/ui",
+    "@nuxt/content",
+    "@vueuse/nuxt",
+    "nuxt-og-image",
+    "motion-v/nuxt",
   ],
 
   devtools: {
-    enabled: true
+    enabled: true,
   },
   app: {
-    baseURL: '/portfolio/'
+    baseURL: "/portfolio/",
   },
 
-  css: ['~/assets/css/main.css'],
+  css: ["~/assets/css/main.css"],
 
-  compatibilityDate: '2024-11-01',
-
+  compatibilityDate: "2024-11-01",
+  icon: {
+    clientBundle: {
+      scan: true,
+      icons: ["lucide:sun", "lucide:moon", "lucide:arrow-right"],
+    },
+  },
   nitro: {
     prerender: {
-      routes: ['/'],
-      crawlLinks: true
-    }
+      routes: ["/"],
+      crawlLinks: true,
+    },
   },
 
   eslint: {
     config: {
       stylistic: {
-        commaDangle: 'never',
-        braceStyle: '1tbs'
-      }
-    }
-  }
-})
+        commaDangle: "never",
+        braceStyle: "1tbs",
+      },
+    },
+  },
+});
