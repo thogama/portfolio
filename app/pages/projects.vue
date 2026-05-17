@@ -39,7 +39,6 @@ useSeoMeta({
       <template #links>
         <div v-if="page.links" class="flex items-center gap-2">
           <UButton
-            variant="solid"
             :label="page.links[0]?.label"
             :to="global.meetingLink"
             v-bind="page.links[0]"
@@ -65,7 +64,7 @@ useSeoMeta({
           :title="project.title"
           :description="project.description"
           :to="project.url"
-          orientation="vertical"
+          orientation="horizontal"
           variant="naked"
           :reverse="index % 2 === 1"
           class="group"
@@ -87,7 +86,6 @@ useSeoMeta({
               {{ tag }}
             </UBadge>
           </template>
-          <template> </template>
           <template #footer>
             <ULink
               :to="project.url"
