@@ -1,8 +1,5 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  app:{
-    baseURL: '/portfolio/'
-  },
   modules: [
     '@nuxt/eslint',
     '@nuxt/image',
@@ -16,6 +13,9 @@ export default defineNuxtConfig({
   devtools: {
     enabled: true
   },
+  app: {
+    baseURL: '/portfolio/'
+  },
 
   css: ['~/assets/css/main.css'],
 
@@ -23,9 +23,7 @@ export default defineNuxtConfig({
 
   nitro: {
     prerender: {
-      routes: [
-        '/'
-      ],
+      routes: ['/'],
       crawlLinks: true
     }
   },
