@@ -14,7 +14,7 @@ const { data: projects } = await useAsyncData("projects", () => {
   return queryCollection("projects").all();
 });
 
-const { global, ui } = useAppConfig();
+const { global } = useAppConfig();
 
 useSeoMeta({
   title: page.value?.seo?.title || page.value?.title,
@@ -39,7 +39,7 @@ useSeoMeta({
       <template #links>
         <div v-if="page.links" class="flex items-center gap-2">
           <UButton
-            variant="outline"
+            variant="solid"
             :label="page.links[0]?.label"
             :to="global.meetingLink"
             v-bind="page.links[0]"
