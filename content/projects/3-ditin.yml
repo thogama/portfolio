@@ -1,6 +1,6 @@
 title: Costructions in Progress at São Cristóvão
 description: During my internship at DITIN, I was responsible for developing and maintaining the São Cristóvão city hall's website. This project involved creating a user-friendly interface for citizens to access public services and information, as well as implementing features to enhance the overall user experience. My work contributed to improving the accessibility and functionality of the city's online presence.
-image: /ditin.png
+image: ditin.png
 url: "https://www.saocristovao.se.gov.br/obras"
 tags: ["VanillaJS", "Laravel ", "Government", "Public Sector"]
 date: "2022"

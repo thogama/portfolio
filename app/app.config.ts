@@ -1,8 +1,8 @@
 export default defineAppConfig({
   global: {
     picture: {
-      dark: 'http://localhost:3000/perfil.jpg',
-      light: 'http://localhost:3000/perfil.jpg',
+      dark: 'perfil.jpg',
+      light: 'perfil.jpg',
       alt: 'Alan Gama'
     },
     meetingLink: 'mailto:dethfiregrasp@gmail.com',
