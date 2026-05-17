@@ -12,13 +12,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-      - run: corepack enable
       - uses: actions/setup-node@v6
         with:
-          node-version: "18"
+          node-version: "25"
+          cache: pnpm
 
-      - run: npx nypm install
-      - run: npm run build
+      - run: corepack enable
+      - run: pnpm --version
+
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm build
         env:
           NITRO_PRESET: github_pages
 
