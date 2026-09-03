@@ -17,33 +17,40 @@ experience:
   title: Work Experience
   items:
     - position: "Fullstack Software Engineer at"
-      date: "2023 - Present"
+      date: "2026 - Present"
+      company:
+        name: Revi
+        logo: "/revi-logo-icon.png"
+        url: "https://www.userevi.com/"
+        color: "#1d4ed8"
+    - position: "Fullstack Software Engineer at"
+      date: "2023 - 2026"
       company:
         name: LeoRad
         logo: "/leo-logo.webp"
         url: "https://leorad.com.br/"
-        color: "#22b1e3"
+        color: "#0891b2"
     - position: "Fullstack Software Engineer on"
       date: "2023 - 2023"
       company:
         name: Upwork
         logo: "/upwork-logo.png"
         url: "https://www.upwork.com/freelancers/~01c65b24230c0622b6?mp_source=share"
-        color: "#128b02"
+        color: "#15803d"
     - position: "Fullstack Developer Intern at"
       date: "2022 - 2023"
       company:
         name: DITIN
         logo: "/ditin-logo.svg"
         url: "https://www.saocristovao.se.gov.br/"
-        color: "#facc15"
+        color: "#d97706"
     - position: "Junior Frontend Developer at"
       date: "2021 - 2022"
       company:
         name: Neurometa
         logo: "/neurometa-logo.jpg"
         url: "https://neurometa.com.br/"
-        color: "rgb(26 45 243)"
+        color: "#ffffff"
 testimonials:
   - quote: "Alan is a solid full-stack engineer who doesn't just execute tasks—he understands the underlying problem and proposes better solutions. His lean approach, professional transparency, and work ethic make a significant difference in a team's daily operations. I fully recommend him."
     author:

@@ -40,13 +40,15 @@ defineProps<{
             </span>
             <div
               class="inline-flex items-center gap-1"
-              :style="{ color: experience.company.color }"
+              :class="{ 'text-black dark:text-white': experience.company.name === 'Neurometa' }"
+              :style="experience.company.name === 'Neurometa' ? undefined : { color: experience.company.color }"
             >
               <span class="font-medium">{{ experience.company.name }}</span>
               <NuxtImg
                 width="16"
                 height="16"
                 :src="experience.company.logo"
+                :class="{ 'invert dark:invert-0': experience.company.name === 'DITIN' }"
               />
             </div>
           </ULink>
